@@ -29,8 +29,7 @@ project/
 │   │   ├── dependencies/
 │   │   ├── endpoints/
 │   │   ├── schemas/
-│   │   ├── validations/
-│   │   └── routers.py
+│   │   └── validations/
 │   │
 │   ├── core/
 │   ├── db/
